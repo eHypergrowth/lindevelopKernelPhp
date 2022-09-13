@@ -1,0 +1,14 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.+)$ index.php?ldAction=$1 [QSA,L]
+</IfModule>
+
+<IfModule !mod_rewrite.c>
+	ErrorDocument 404 /404
+</IfModule>
+
+ErrorDocument 500 /500
+Options -Indexes
