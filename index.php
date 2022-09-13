@@ -1,5 +1,6 @@
 <?php
-//LDDOC-AUTHOR: ING. EMMANUEL RAMIREZ ALIAS = EHYPERGROWTH
+//LDDOC-AUTHOR: ING. EMMANUEL RAMIREZ 
+//LDDOC-ALIAS: EHYPERGROWTH
 //LDDOC-EMAIL: emmanuelramirez@lindevelop.com, developer@ehypergrowth.com
 //LDDOC-WEBSITE: https://lindevelop.com/products/linPhpKernel
 //LDDOC-DATESTART: FECHA DE CREACION: 23/06/2018
