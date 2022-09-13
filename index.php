@@ -1,4 +1,6 @@
 <?php
+//LDDOC-AUTHOR: ING. EMMANUEL RAMIREZ
+//LDDOC-EMAIL: emmanuelramirez@lindevelop.com
 include('kernel/ldKernelSystem.php');
 session_start();
 if ($_SERVER['HTTPS'] == 'on') {							//LDDOC: Validamos que este entrando por HTTPS
