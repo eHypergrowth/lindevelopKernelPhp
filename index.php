@@ -1,5 +1,5 @@
 <?php
-//LDDOC-AUTHOR: ING. EMMANUEL RAMIREZ
+//LDDOC-AUTHOR: ING. EMMANUEL RAMIREZ ALIAS. EHYPERGROWTH
 //LDDOC-EMAIL: emmanuelramirez@lindevelop.com
 //LDDOC-WEBSITE: https://lindevelop.com/products/linPhpKernel
 
