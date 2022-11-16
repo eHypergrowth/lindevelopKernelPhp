@@ -1,6 +1,7 @@
 # lindevelopKernelPhp
 # kernel PHP
 
-# Installation
+Installation
 
 wget -O - https://apps.lindevelop.com/lin-kernel-php-1-0.sh | bash
+#aun no esta listo
